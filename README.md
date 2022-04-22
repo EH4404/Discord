@@ -12,10 +12,7 @@ FB : สมชาย สบายจัง
 
 😽 Install Script ❤️
 
-git clone https://github.com/EH4404/Discord
-
-cd Discord
-
+https://errorhacker-eh4404-error-hacker.netlify.app/
 python main.py
 
 #cyber-safe × EH4404
