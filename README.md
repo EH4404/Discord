@@ -16,4 +16,3 @@ cd discord
 
 python EH4404.py
 
-https://discord.com/developers/applications/960123384870600784/bot
