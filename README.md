@@ -6,13 +6,12 @@
 
 pip install discord
 
-pip install termcolor
-
 FB : สมชาย สบายจัง
 
 😽 Install Script ❤️
 
-https://errorhacker-eh4404-error-hacker.netlify.app/
-python main.py
+git clone https://github.com/EH4404/discord
 
-#cyber-safe × EH4404
+cd discord
+
+python EH4404.py
